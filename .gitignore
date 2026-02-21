@@ -130,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore generated mapping CSVs
+src/playlist_mapping.csv
+src/id3_mapping.csv
